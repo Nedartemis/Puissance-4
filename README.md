@@ -1,6 +1,6 @@
 # Puissance-4
 
-Puissance-4 est un projet individuel que j'ai développé pendant ma terminal
+Puissance-4 est un projet individuel que j'ai développé pendant ma terminale
 en 2020 dans le cadre de mon cours de ISN (Informatique et science du
 numérique).
 
